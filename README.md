@@ -91,7 +91,7 @@ Different regression models were compared to understand how they capture pattern
 
 ## 📂 Project File
 
-* `Vehicle_Price_Prediction_ML.ipynb` – Complete notebook with data preprocessing, visualization, and model training.
+* `Vehicle_Price_Prediction.ipynb` – Complete notebook with data preprocessing, visualization, and model training.
 
 ---
 
