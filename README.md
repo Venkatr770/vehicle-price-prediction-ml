@@ -51,8 +51,8 @@ To build a regression model that can predict the selling price of a vehicle base
    * Encoded categorical variables
 4. Train-Test Split
 
-   * 70% training data
-   * 30% testing data
+   * 80% training data
+   * 20% testing data
 5. Model Training
 
    * Linear Regression
